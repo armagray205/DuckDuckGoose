@@ -87,9 +87,9 @@ Allows users to watch free movies without creating a account and also enables us
 
 ## Wireframes
 
-<https://www.figma.com/file/gk1obDQCDRdEn4WDgWM6zxcl/Untitled?node-id=0%3A1>
-
 ### [BONUS] Digital Wireframes & Mockups
+
+<https://www.figma.com/file/gk1obDQCDRdEn4WDgWM6zxcl/Untitled?node-id=0%3A1>
 
 ### [BONUS] Interactive Prototype
 <https://www.figma.com/proto/gk1obDQCDRdEn4WDgWM6zxcl/Untitled?node-id=0%3A1&scaling=min-zoom>
