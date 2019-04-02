@@ -87,7 +87,7 @@ Allows users to watch free movies without creating a account and also enables us
 
 ## Wireframes
 
-<WireFrame.JPG>
+<https://github.com/armagray205/DuckDuckGoose/blob/master/WireFrame.JPG>
 
 ### [BONUS] Digital Wireframes & Mockups
 
