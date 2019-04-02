@@ -53,7 +53,7 @@ Allows users to watch free movies without creating a account and also enables us
    * Movie Length
    * Movie Published Date
    * Movie Views 
-   * MOvie Link Download 
+   * Movie Link Download 
    * Movie Link to Watch 
    * Movie Titles
    * Movie Description
@@ -86,6 +86,8 @@ Allows users to watch free movies without creating a account and also enables us
   
 
 ## Wireframes
+
+<WireFrame.JPG>
 
 ### [BONUS] Digital Wireframes & Mockups
 
